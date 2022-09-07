@@ -11,4 +11,8 @@ class JokerClientTest {
         JokeResponse expectedResponse = JokeResponse.builder().build();
         assertEquals(expectedResponse, expectedResponse);
     }
+
+    @Test
+    void shouldLogErrorWhenExceptionOnResponse() {
+    }
 }
