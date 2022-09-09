@@ -6,6 +6,9 @@ The project tries to provide jokes on a daily basis.
 * User can get a jokeResponse even if user goes offline
 * User can submit a jokeResponse
 
+### Diagram
+![](../../../../var/folders/w8/w7h08w_j72qd8x456k34l7b80000gn/T/TemporaryItems/NSIRD_screencaptureui_llz4bc/Screen Shot 2022-09-09 at 12.37.08.png)
+
 ## External API
 This project chose https://sv443.net/jokeapi/v2/ to get jokes after comparing https://jokes.one/api/jokeResponse/#java
 and https://icanhazdadjoke.com/api#fetch-a-random-dad-jokeResponse.
